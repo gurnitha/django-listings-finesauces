@@ -117,6 +117,12 @@ https://github.com/gurnitha/django-listings-finesauces
         modified:   README.md
 
 #### 3.4.3 Adding models to the administration site
+
+        modified:   README.md
+        modified:   apps/listings/admin.py
+        modified:   apps/listings/models.py
+
+        
 #### 3.4.4 Customizing how models are displayed
 ###  3.5 Displaying our categories and products
 #### 3.5.1 Building our product list view
