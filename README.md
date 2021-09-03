@@ -35,8 +35,12 @@ Django Made Easy, 2nd Edition by Peter Vought
         new file:   finesauces/urls.py
         new file:   finesauces/wsgi.py
         new file:   manage.py
-        
+
 #### 2.1.1 Running our local development server
+
+        (venv3932) λ python manage.py runserver
+        new file:   manage.py
+        
 ###  2.2 Database and Updating project settings
 #### 2.2.1 Create database
 #### 2.2.2 Connecting the project with the database
