@@ -109,8 +109,13 @@ https://github.com/gurnitha/django-listings-finesauces
 #### 3.4.1 Creating superuser
 
         modified:   README.md
-        
+
 #### 3.4.2 Accessing administration site
+
+        (venv3932) λ python manage.py runserver
+        http://127.0.0.1:8000/admin/
+        modified:   README.md
+
 #### 3.4.3 Adding models to the administration site
 #### 3.4.4 Customizing how models are displayed
 ###  3.5 Displaying our categories and products
