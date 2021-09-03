@@ -4,6 +4,7 @@ venv39225
 venv3922
 venv3932
 _docs
+.env
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -49,7 +49,14 @@ Django Made Easy, 2nd Edition by Peter Vought
         CREATE DATABASE
         modified:   README.md
 
-#### 2.2.2 Connecting the project with the database
+#### 2.2.2 Create .env file
+
+        > (venv3932) λ pip install django-environ
+        modified:   .gitignore
+        modified:   README.md
+
+#### 2.2.3 Connecting the project with the database
+
 #### 2.3 Initial migration
 #### 2.4 Remote repository
 
