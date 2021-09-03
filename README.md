@@ -145,7 +145,12 @@ https://github.com/gurnitha/django-listings-finesauces
         new file:   media/products/orange_habanero_cqDkzpU.jpg
 
 ###  3.5 Displaying our categories and products
+
 #### 3.5.1 Building our product list view
+
+        modified:   README.md
+        modified:   apps/listings/views.py
+        
 #### 3.5.2 Creating template for our product list
 #### 3.5.3 Adding URL pattern for our view
 #### 3.5.4 Filtering by category
