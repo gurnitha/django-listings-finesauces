@@ -89,6 +89,11 @@ https://github.com/gurnitha/django-listings-finesauces
         new file:   apps/listings/views.py
 
 #### 3.1.2 Activating listings application
+
+        modified:   README.md
+        modified:   apps/listings/apps.py
+        modified:   finesauces/settings.py
+        
 #### 3.2 Designing listings models
 #### 3.3 Creating and applying migrations
 ###  3.4 Creating administration site
