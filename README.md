@@ -105,7 +105,11 @@ https://github.com/gurnitha/django-listings-finesauces
         new file:   apps/listings/migrations/0001_initial.py
 
 ###  3.4 Creating administration site
+
 #### 3.4.1 Creating superuser
+
+        modified:   README.md
+        
 #### 3.4.2 Accessing administration site
 #### 3.4.3 Adding models to the administration site
 #### 3.4.4 Customizing how models are displayed
