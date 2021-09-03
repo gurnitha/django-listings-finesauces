@@ -150,8 +150,13 @@ https://github.com/gurnitha/django-listings-finesauces
 
         modified:   README.md
         modified:   apps/listings/views.py
-        
+
 #### 3.5.2 Creating template for our product list
+
+        modified:   README.md
+        new file:   templates/base.html
+        new file:   templates/product/list.html
+        
 #### 3.5.3 Adding URL pattern for our view
 #### 3.5.4 Filtering by category
 #### 3.5.5 Product detail page
