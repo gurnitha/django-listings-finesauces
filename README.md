@@ -40,9 +40,15 @@ Django Made Easy, 2nd Edition by Peter Vought
 
         (venv3932) λ python manage.py runserver
         new file:   manage.py
-        
+
 ###  2.2 Database and Updating project settings
+
 #### 2.2.1 Create database
+
+        > hp=# create database django_listings_finesauces;
+        CREATE DATABASE
+        modified:   README.md
+
 #### 2.2.2 Connecting the project with the database
 #### 2.3 Initial migration
 #### 2.4 Remote repository
