@@ -65,7 +65,7 @@ ROOT_URLCONF = 'finesauces.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -140,8 +140,14 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.2/howto/static-files/
 
-# Static url
-STATIC_URL = '/static/'
+# http://127.0.0.1:8000/static/css/style.css
+STATIC_URL = '/static/' 
+# This tells Django the location of static files in our project
+STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static'), ]
+'''STATIC_ROOT is the single root directory from where the Django 
+   application will serve the static files in production.'''
+# STATIC_ROOT  = os.path.join(BASE_DIR, 'staticfiles') # <-- as an example
+
 # Media url and root
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')

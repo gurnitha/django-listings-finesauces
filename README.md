@@ -157,7 +157,24 @@ https://github.com/gurnitha/django-listings-finesauces
         new file:   templates/base.html
         new file:   templates/product/list.html
         
-#### 3.5.3 Adding URL pattern for our view
+#### 3.5.3 Adding URL pattern for our view and added static files
+
+        modified:   README.md
+        renamed:    templates/product/list.html -> apps/listings/templates/product/list.html
+        new file:   apps/listings/urls.py
+        modified:   apps/listings/views.py
+        modified:   finesauces/settings.py
+        modified:   finesauces/urls.py
+        new file:   static/css/admin.css
+        new file:   static/css/all.min.css
+        new file:   static/css/bootstrap.min.css
+        new file:   static/css/pdf.css
+        new file:   static/css/style.css
+        new file:   static/img/komodo_dragon.jpg
+        new file:   static/img/orange_habanero.jpg
+        new file:   static/js/scripts.js
+        modified:   templates/base.html
+
 #### 3.5.4 Filtering by category
 #### 3.5.5 Product detail page
 #### 3.5.6 Adding reviews

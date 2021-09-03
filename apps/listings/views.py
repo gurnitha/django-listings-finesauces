@@ -4,7 +4,7 @@
 from django.shortcuts import render
 
 # Locals
-from apps.listings.models import Category
+from apps.listings.models import Product
 
 # Create your views here.
 
