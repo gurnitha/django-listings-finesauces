@@ -61,6 +61,11 @@ Django Made Easy, 2nd Edition by Peter Vought
         modified:   finesauces/settings.py
 
 #### 2.3 Initial migration
+
+        > (venv3932) λ python manage.py migrate
+        modified:   README.md
+
+
 #### 2.4 Remote repository
 
 ### -------------------------------
