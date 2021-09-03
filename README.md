@@ -133,6 +133,16 @@ https://github.com/gurnitha/django-listings-finesauces
         modified:   finesauces/settings.py
         modified:   finesauces/urls.py
 
+#### 3.4.6 Fixing models, re-run migrations and isert items
+
+        modified:   README.md
+        modified:   apps/listings/admin.py
+        modified:   apps/listings/migrations/0001_initial.py
+        modified:   apps/listings/models.py
+        new file:   media/products/komodo_dragon.jpg
+        new file:   media/products/komodo_dragon_ecLvSST.jpg
+        new file:   media/products/orange_habanero.jpg
+        new file:   media/products/orange_habanero_cqDkzpU.jpg
 
 ###  3.5 Displaying our categories and products
 #### 3.5.1 Building our product list view

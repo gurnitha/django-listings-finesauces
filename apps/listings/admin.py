@@ -3,7 +3,7 @@
 # Django modules
 from django.contrib import admin
 
-# Locals
+# Django locals
 from apps.listings.models import Category, Product
 
 # Register your models here.
@@ -16,7 +16,12 @@ class CategoryAdmin(admin.ModelAdmin):
 
 @admin.register(Product)
 class ProductAdmin(admin.ModelAdmin):
-	list_display = ('name', 'category', 'slug', 'price', 'available')
+	list_display =('name', 'category', 'slug', 'price', 'available')
 	list_filter = ('category', 'available')
 	list_editable = ('price', 'available')
-	prepopulated_fields = {'slug': ('name',)}
+	prepopulated_fields = {'slug': ('name',)}	
+
+	# inlines = [OrderReviewInline]
+
+
+
