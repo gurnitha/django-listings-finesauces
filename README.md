@@ -28,6 +28,14 @@ Django Made Easy, 2nd Edition by Peter Vought
 ### ---------------------------------
 
 #### 2.1 Creating a Django project
+
+        new file:   finesauces/__init__.py
+        new file:   finesauces/asgi.py
+        new file:   finesauces/settings.py
+        new file:   finesauces/urls.py
+        new file:   finesauces/wsgi.py
+        new file:   manage.py
+        
 #### 2.1.1 Running our local development server
 ###  2.2 Database and Updating project settings
 #### 2.2.1 Create database
