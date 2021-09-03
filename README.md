@@ -127,6 +127,13 @@ https://github.com/gurnitha/django-listings-finesauces
         modified:   README.md
         modified:   apps/listings/admin.py
 
+#### 3.4.5 Adding static and media path
+
+        modified:   README.md
+        modified:   finesauces/settings.py
+        modified:   finesauces/urls.py
+
+
 ###  3.5 Displaying our categories and products
 #### 3.5.1 Building our product list view
 #### 3.5.2 Creating template for our product list
