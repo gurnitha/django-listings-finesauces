@@ -3,6 +3,9 @@
 SOURCE:
 Django Made Easy, 2nd Edition by Peter Vought
  
+Github:
+https://github.com/gurnitha/django-listings-finesauces
+
 
 ### ---------------
 ### 1 Initial setup
@@ -65,8 +68,10 @@ Django Made Easy, 2nd Edition by Peter Vought
         > (venv3932) λ python manage.py migrate
         modified:   README.md
 
-
 #### 2.4 Remote repository
+
+        https://github.com/gurnitha/django-listings-finesauces
+        modified:   README.md
 
 ### -------------------------------
 ### 3 Creating listings application
