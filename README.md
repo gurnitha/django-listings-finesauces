@@ -55,7 +55,10 @@ Django Made Easy, 2nd Edition by Peter Vought
         modified:   .gitignore
         modified:   README.md
 
-#### 2.2.3 Connecting the project with the database
+#### 2.2.3 Connecting the project with the .env
+
+        modified:   README.md
+        modified:   finesauces/settings.py
 
 #### 2.3 Initial migration
 #### 2.4 Remote repository
