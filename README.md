@@ -188,8 +188,14 @@ https://github.com/gurnitha/django-listings-finesauces
         new file:   media/products/orange_habanero_BXNkOFg.jpg
         modified:   templates/base.html
 
-
 #### 3.5.5 Filtering by category
+
+        modified:   README.md
+        modified:   apps/listings/templates/product/list.html
+        modified:   apps/listings/urls.py
+        modified:   apps/listings/views.py
+        modified:   apps/listings/models.py (get_absolute_url)
+
 #### 3.5.6 Product detail page
 #### 3.5.7 Adding reviews
 #### 3.6 Local and remote repository
