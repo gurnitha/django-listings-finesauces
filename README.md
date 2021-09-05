@@ -175,9 +175,23 @@ https://github.com/gurnitha/django-listings-finesauces
         new file:   static/js/scripts.js
         modified:   templates/base.html
 
-#### 3.5.4 Filtering by category
-#### 3.5.5 Product detail page
-#### 3.5.6 Adding reviews
+#### 3.5.4 Display all products and categories
+
+        modified:   README.md
+        modified:   apps/listings/admin.py
+        modified:   apps/listings/migrations/0001_initial.py
+        modified:   apps/listings/models.py
+        modified:   apps/listings/templates/product/list.html
+        modified:   apps/listings/views.py
+        new file:   media/products/komodo_dragon_qvvFRoh.jpg
+        new file:   media/products/orange_habanero_3uVrK70.jpg
+        new file:   media/products/orange_habanero_BXNkOFg.jpg
+        modified:   templates/base.html
+
+
+#### 3.5.5 Filtering by category
+#### 3.5.6 Product detail page
+#### 3.5.7 Adding reviews
 #### 3.6 Local and remote repository
 
 ### ---------------
