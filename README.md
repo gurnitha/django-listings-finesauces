@@ -197,6 +197,14 @@ https://github.com/gurnitha/django-listings-finesauces
         modified:   apps/listings/models.py (get_absolute_url)
 
 #### 3.5.6 Product detail page
+
+        modified:   README.md
+        modified:   apps/listings/models.py
+        new file:   apps/listings/templates/product/detail.html
+        modified:   apps/listings/templates/product/list.html
+        modified:   apps/listings/urls.py
+        modified:   apps/listings/views.py
+        
 #### 3.5.7 Adding reviews
 #### 3.6 Local and remote repository
 
